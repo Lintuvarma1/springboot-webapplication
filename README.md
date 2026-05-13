@@ -10,7 +10,7 @@ Install Maven
 ## Clone code using below command
 
 ```bash
-git clone https://github.com/Naresh240/springboot-webapplication.git
+[git clone https://github.com/Lintuvarma1/springboot-webapplication.git]
 cd springboot-webapplication
 ```
 
